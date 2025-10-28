@@ -63,7 +63,7 @@ Transaction validation is community-based, and blocks require six confirmations 
 * Seed nodes and peer network established
 * Wallet releases for Windows and Linux
 * Official website and block explorer
-* Community platforms (Telegram, Discord, Bitcointalk)
+* Community platforms ( Discord, Bitcointalk)
 
 ### **Q1–Q3 2026 — Growth & Utility**
 
@@ -107,9 +107,8 @@ PupToken thrives on community engagement. From miners and developers to meme cre
 **Official Channels:**
 
 * 🌐 Website: https://puptoken.net
-* 🐕 Discord: Join Server
-* 📰 Bitcointalk: [Official Thread](#)
-* 💎 GitHub: [Source Code](#)
+* 🐕 Discord: https://discord.gg/XpZGwS5K
+* 📰 Bitcointalk: https://bitcointalk.org/index.php?topic=5563686.new#new
 
 ---
 
